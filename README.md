@@ -30,9 +30,9 @@ https://github.com/Fission-AI/OpenSpec/blob/main/README.md
 https://github.com/kirsanvav-dot/software-factory
 
 ## Связаться
-vikikirsanova@icloud.com
+email: vikikirsanova@icloud.com
 linkedin.com/in/vkirsanova
-@vkirsanova
+telegram: @vkirsanova
 
 ---
 
