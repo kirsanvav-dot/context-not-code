@@ -5,7 +5,7 @@ TechCommunityFest, трек AI Disrupt PDLC&PSLC, 1 октября 2026. Вик�
 
 ## Презентация
 
-- [Слайды (PDF)](./context-not-code.pdf)
+- [Слайды (PDF)](./context-not-code_vForPDF.pdf)
 
 ## Ссылки из доклада
 
